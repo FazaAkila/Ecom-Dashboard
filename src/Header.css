@@ -1,0 +1,17 @@
+.navbar_link {
+    background-color: #ffc8dd;
+    padding: 10px;
+    border-radius: 8px;
+    color: white;
+    text-align: center;
+}
+
+.navbar_link:hover {
+    background-color: #ffafcc;
+    color: white;
+}
+
+.navbar_background {
+    background-color: #cdb4db;
+    font-size: 18px;
+}
